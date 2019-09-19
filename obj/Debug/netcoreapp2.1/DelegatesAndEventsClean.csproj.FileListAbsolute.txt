@@ -1,0 +1,11 @@
+C:\Users\Humphry Shikunzi\Desktop\Projects\MyMnager\MyManager\DelegatesAndEventsClean\bin\Debug\netcoreapp2.1\DelegatesAndEventsClean.deps.json
+C:\Users\Humphry Shikunzi\Desktop\Projects\MyMnager\MyManager\DelegatesAndEventsClean\bin\Debug\netcoreapp2.1\DelegatesAndEventsClean.runtimeconfig.json
+C:\Users\Humphry Shikunzi\Desktop\Projects\MyMnager\MyManager\DelegatesAndEventsClean\bin\Debug\netcoreapp2.1\DelegatesAndEventsClean.runtimeconfig.dev.json
+C:\Users\Humphry Shikunzi\Desktop\Projects\MyMnager\MyManager\DelegatesAndEventsClean\bin\Debug\netcoreapp2.1\DelegatesAndEventsClean.dll
+C:\Users\Humphry Shikunzi\Desktop\Projects\MyMnager\MyManager\DelegatesAndEventsClean\bin\Debug\netcoreapp2.1\DelegatesAndEventsClean.pdb
+C:\Users\Humphry Shikunzi\Desktop\Projects\MyMnager\MyManager\DelegatesAndEventsClean\obj\Debug\netcoreapp2.1\DelegatesAndEventsClean.csprojAssemblyReference.cache
+C:\Users\Humphry Shikunzi\Desktop\Projects\MyMnager\MyManager\DelegatesAndEventsClean\obj\Debug\netcoreapp2.1\DelegatesAndEventsClean.csproj.CoreCompileInputs.cache
+C:\Users\Humphry Shikunzi\Desktop\Projects\MyMnager\MyManager\DelegatesAndEventsClean\obj\Debug\netcoreapp2.1\DelegatesAndEventsClean.AssemblyInfoInputs.cache
+C:\Users\Humphry Shikunzi\Desktop\Projects\MyMnager\MyManager\DelegatesAndEventsClean\obj\Debug\netcoreapp2.1\DelegatesAndEventsClean.AssemblyInfo.cs
+C:\Users\Humphry Shikunzi\Desktop\Projects\MyMnager\MyManager\DelegatesAndEventsClean\obj\Debug\netcoreapp2.1\DelegatesAndEventsClean.dll
+C:\Users\Humphry Shikunzi\Desktop\Projects\MyMnager\MyManager\DelegatesAndEventsClean\obj\Debug\netcoreapp2.1\DelegatesAndEventsClean.pdb
